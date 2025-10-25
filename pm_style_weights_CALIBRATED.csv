@@ -1,0 +1,63 @@
+question,question_text,answer_text,Lean: Design Build,Lean: CMAR,Lean: JOC,Agile: IPD,Agile: P3,Predictive: DBB,Predictive: BOT
+1,What is the budget for your project?,$0-$100K,0.0,0.0,0,0.0,0,0,0
+1,What is the budget for your project?,$100K-$500K,0.0,0.0,0,0.0,0,0,0
+1,What is the budget for your project?,$500K-$1M,0.0,0.0,0,0.0,0,0,0
+1,What is the budget for your project?,$1M-$10M,0.0,0.0,0,0.0,0,0,0
+1,What is the budget for your project?,$10M-$50M,0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+1,What is the budget for your project?,$50M-$100M,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+1,What is the budget for your project?,$100M+,0.0,0.0,0,0.0,0,0,0
+1,What is the budget for your project?,Unknown,0.0,0.0,0,0.0,0,0,0
+2,Will the contractor finance and/or operate the asset after delivery?,None,0.026763990267639898,0.060827250608272515,0,0.051094890510948926,0,0,0
+2,Will the contractor finance and/or operate the asset after delivery?,Short-term O&M,0.0,0.0,0,0.0,0,0,0
+2,Will the contractor finance and/or operate the asset after delivery?,Long-term O&M,0.0,0.0,0,0.0,0,0,0
+2,Will the contractor finance and/or operate the asset after delivery?,Finance + Operate,0.0,0.0,0,0.0,0,0,0
+2,Will the contractor finance and/or operate the asset after delivery?,Unknown,0.0,0.0,0,0.0,0,0,0
+3,What is the project’s governance tier within the owner organization?,Small (1 Approver),0.0,0.0,0,0.0,0,0,0
+3,What is the project’s governance tier within the owner organization?,Medium (2-3 Approvers),0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+3,What is the project’s governance tier within the owner organization?,Large (4-6 Approvers),-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+3,What is the project’s governance tier within the owner organization?,Mega (7+ Approvers),0.0,0.0,0,0.0,0,0,0
+3,What is the project’s governance tier within the owner organization?,Unknown,0.0,0.0,0,0.0,0,0,0
+4,What commercial approach is preferred?,Lump Sum,0.13381995133819952,-0.029197080291970805,0,-0.07785888077858882,0,0,0
+4,What commercial approach is preferred?,GMP,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+4,What commercial approach is preferred?,Cost-Plus,-0.07785888077858881,0.004866180048661802,0,0.12408759124087594,0,0,0
+4,What commercial approach is preferred?,Performance-Based,0.0,0.0,0,0.0,0,0,0
+4,What commercial approach is preferred?,Unknown,0.0,0.0,0,0.0,0,0,0
+5,How easy is it to align decision-makers on scope/cost/schedule?,Easy,0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+5,How easy is it to align decision-makers on scope/cost/schedule?,Mixed,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+5,How easy is it to align decision-makers on scope/cost/schedule?,Hard,0.0,0.0,0,0.0,0,0,0
+5,How easy is it to align decision-makers on scope/cost/schedule?,Contentious,0.0,0.0,0,0.0,0,0,0
+5,How easy is it to align decision-makers on scope/cost/schedule?,Unknown,0.0,0.0,0,0.0,0,0,0
+6,What is the required delivery speed?,Normal,0.0,0.0,0,0.0,0,0,0
+6,What is the required delivery speed?,Accelerated,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+6,What is the required delivery speed?,Fast-track,0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+6,What is the required delivery speed?,Urgent,0.0,0.0,0,0.0,0,0,0
+6,What is the required delivery speed?,Unknown,0.0,0.0,0,0.0,0,0,0
+7,Which procurement mode is feasible/desired?,Competitive Bid,0.0,0.0,0,0.0,0,0,0
+7,Which procurement mode is feasible/desired?,Best-Value,0.10462287104622871,0.05596107055961071,0,-0.07299270072992702,0,0,0
+7,Which procurement mode is feasible/desired?,Negotiated,-0.07785888077858881,0.004866180048661802,0,0.12408759124087594,0,0,0
+7,Which procurement mode is feasible/desired?,Framework,0.0,0.0,0,0.0,0,0,0
+7,Which procurement mode is feasible/desired?,Unknown,0.0,0.0,0,0.0,0,0,0
+8,What is design completeness at procurement?,0-30%,0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+8,What is design completeness at procurement?,30-60%,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+8,What is design completeness at procurement?,60-100%,0.0,0.0,0,0.0,0,0,0
+8,What is design completeness at procurement?,Unknown,0.0,0.0,0,0.0,0,0,0
+9,How early must designer–builder–trades collaborate?,Low,0.0,0.0,0,0.0,0,0,0
+9,How early must designer–builder–trades collaborate?,Medium,0.0,0.0,0,0.0,0,0,0
+9,How early must designer–builder–trades collaborate?,High,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+9,How early must designer–builder–trades collaborate?,Co-Located,0.05596107055961071,-0.024330900243309004,0,0.04622871046228712,0,0,0
+9,How early must designer–builder–trades collaborate?,Unknown,0.0,0.0,0,0.0,0,0,0
+10,"How constrained is the site (access, phasing, live facility)?",Low,-0.07785888077858881,0.004866180048661802,0,0.12408759124087594,0,0,0
+10,"How constrained is the site (access, phasing, live facility)?",Medium,-0.02919708029197081,0.08515815085158152,0,0.004866180048661803,0,0,0
+10,"How constrained is the site (access, phasing, live facility)?",High,0.13381995133819952,-0.029197080291970805,0,-0.07785888077858882,0,0,0
+10,"How constrained is the site (access, phasing, live facility)?",Very High,0.0,0.0,0,0.0,0,0,0
+10,"How constrained is the site (access, phasing, live facility)?",Unknown,0.0,0.0,0,0.0,0,0,0
+11,What is the project’s overall risk profile?,Low,0.0,0.0,0,0.0,0,0,0
+11,What is the project’s overall risk profile?,Medium,0.026763990267639898,0.060827250608272515,0,0.051094890510948926,0,0,0
+11,What is the project’s overall risk profile?,High,0.0,0.0,0,0.0,0,0,0
+11,What is the project’s overall risk profile?,Extreme,0.0,0.0,0,0.0,0,0,0
+11,What is the project’s overall risk profile?,Unknown,0.0,0.0,0,0.0,0,0,0
+12,How heavy are permitting/safety/accreditation needs?,Low,0.0,0.0,0,0.0,0,0,0
+12,How heavy are permitting/safety/accreditation needs?,Moderate,-0.07785888077858881,0.004866180048661802,0,0.12408759124087594,0,0,0
+12,How heavy are permitting/safety/accreditation needs?,High,0.10462287104622871,0.05596107055961071,0,-0.07299270072992702,0,0,0
+12,How heavy are permitting/safety/accreditation needs?,Very High,0.0,0.0,0,0.0,0,0,0
+12,How heavy are permitting/safety/accreditation needs?,Unknown,0.0,0.0,0,0.0,0,0,0
