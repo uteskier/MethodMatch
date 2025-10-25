@@ -1,0 +1,4 @@
+case_name,expected_style,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
+Sutter Health Fairfield Medical Office Building,Agile: IPD,$10M-$50M,None,Medium (2-3 Approvers),Cost-Plus,Easy,Fast-track,Negotiated,0-30%,Co-Located,Low,Medium,Moderate
+Fairfax County DPWES: Disinfection Facilities Upgrade,Lean: CMAR,$50M-$100M,None,Large (4-6 Approvers),GMP,Mixed,Accelerated,Best-Value,30-60%,High,Medium,Medium,High
+"Courtland Street Bridge Replacement (Atlanta, GA)",Lean: Design Build,$10M-$50M,None,Medium (2-3 Approvers),Lump Sum,Easy,Fast-track,Best-Value,0-30%,Co-Located,High,Medium,High

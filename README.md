@@ -1,19 +1,31 @@
-# 🎈 Blank app template
+# MethodMatch — PM Style Classifier (Streamlit)
 
-A simple Streamlit app template for you to modify!
+This app recommends one of 7 project delivery/management styles based on answers to 12 questions.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Run locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-### How to run it on your own machine
+Upload `pm_style_weights_CALIBRATED.csv` or start with `pm_style_weights_FULL.csv` (zeros).
 
-1. Install the requirements
+## Calibrate weights from case studies
+Edit `pm_style_case_studies.csv` then:
+```bash
+python calibrate_weights.py
+```
+This writes `pm_style_weights_CALIBRATED.csv` used by the app.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Batch scoring
+If you have a CSV of answers (columns `Q1..Q12`):
+```bash
+python score_responses.py --weights pm_style_weights_CALIBRATED.csv --responses responses.csv --out scored_responses.csv
+```
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Deploy on Streamlit Community Cloud
+1. Push this folder to a **public GitHub repo**.
+2. Go to https://share.streamlit.io, click **New app**, select your repo, branch, and `app.py` as the entry point.
+3. Click **Deploy**.
+4. The app will use `pm_style_weights_CALIBRATED.csv` if present, otherwise `pm_style_weights_FULL.csv`.
+5. You can still upload a new weights CSV at runtime via the file uploader.
