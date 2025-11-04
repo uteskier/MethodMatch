@@ -1,4 +1,22 @@
 case_name,expected_style,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
-Sutter Health Fairfield Medical Office Building,Agile: IPD,$10M-$50M,None,Medium (2-3 Approvers),Cost-Plus,Easy,Fast-track,Negotiated,0-30%,Co-Located,Low,Medium,Moderate
-Fairfax County DPWES: Disinfection Facilities Upgrade,Lean: CMAR,$50M-$100M,None,Large (4-6 Approvers),GMP,Mixed,Accelerated,Best-Value,30-60%,High,Medium,Medium,High
-"Courtland Street Bridge Replacement (Atlanta, GA)",Lean: Design Build,$10M-$50M,None,Medium (2-3 Approvers),Lump Sum,Easy,Fast-track,Best-Value,0-30%,Co-Located,High,Medium,High
+Akron Children’s Hospital,Lean: Design-Build,$10M–$50M,None,Large (4–6),GMP,Easy,Accelerated,Best-value,30–60%,High,Medium,Medium,High
+Homewood Water Supply,Lean: Design-Build,$10M–$50M,None,Medium (2–3),Lump Sum,Easy,Accelerated,Best-value,30–60%,Medium,Medium,Medium,High
+UT Arlington College Park,Lean: Design-Build,$50M–$100M,None,Large (4–6),GMP,Mixed,Normal,Competitive bid,30–60%,High,High,Medium,High
+City of Phoenix Water Main Rehab,Lean: CMAR,$10M–$50M,None,Large (4–6),GMP,Easy,Fast-track,Best-value,30–60%,High,Medium,Medium,High
+Fremont WPCP Upgrade,Lean: CMAR ,$50M–$100M,None,Large (4–6),GMP,Mixed,Accelerated,Best-value,60–100%,High,High,Medium,High
+Highway Program (NCHRP),Lean: CMAR,$10M–$50M,None,Large (4–6),GMP,Mixed,Normal,Competitive bid,30–60%,Medium,Medium,Medium,Moderate
+NJDOT ITS Maintenance,Lean: JOC,$0–$100K,None,Small (≤1),Cost-Plus,Easy,Urgent,Framework (JOC),60–100%,Low,Low,Low,Moderate
+NAU Facility Upgrades,Lean: JOC,$100K–$500K,None,Small (≤1),Cost-Plus,Easy,Fast-track,Framework (JOC),60–100%,Low,Low,Low,Low
+Generic Municipal Repairs,Lean: JOC,$0–$100K,None,Small (≤1),Lump Sum,Easy,Urgent,Framework (JOC),60–100%,Low,Low,Low,Moderate
+Healthcare IPD (LeanIPD.com),Agile: IPD,$50M–$100M,None,Large (4–6),GMP,Easy,Accelerated,Negotiated,30–60%,Co-located (IPD-style),High,Medium,High
+AIA IPD Case Study (US/Canada),Agile: IPD,$10M–$50M,None,Large (4–6),GMP,Easy,Fast-track,Negotiated,30–60%,Co-located (IPD-style),Medium,Medium,High
+Architecture Practice Restructuring (UW),Agile: IPD,$10M–$50M,None,Medium (2–3),Cost-Plus,Mixed,Normal,Negotiated,30–60%,High,Medium,Medium,High
+Cortellucci Vaughan Hospital (Canada),Agile: P3,$100M+,Finance + Operate (P3/BOT),Mega (7+),Performance-based (availability),Mixed,Fast-track,Best-value,60–100%,High,High,High,Very High
+Port Miami Tunnel (Florida),Agile: P3,$100M+,Finance + Operate (P3/BOT),Mega (7+),Performance-based (availability),Contentious,Fast-track,Best-value,60–100%,Medium,Very High,Extreme,Very High
+Ghana Housing (P3/BOT Hybrid),Agile: P3,$50M–$100M,Finance + Operate (P3/BOT),Large (4–6),Performance-based (availability),Mixed,Accelerated,Best-value,60–100%,Medium,High,High,High
+Lynnwood High School (WA),Predictive: DBB,$50M–$100M,None,Large (4–6),Lump Sum,Easy,Normal,Competitive bid,60–100%,Low,Medium,Low,High
+Greenbush Commuter Rail (MA),Predictive: DBB,$100M+,None,Mega (7+),Lump Sum,Contentious,Normal,Competitive bid,60–100%,Low,High,High,Very High
+Comparative Cost Study (Multiple),Predictive: DBB,$1M–$10M,None,Medium (2–3),Lump Sum,Mixed,Normal,Competitive bid,60–100%,Low,Medium,Medium,Moderate
+Bangkok Skytrain,Predictive: BOT,$100M+,Finance + Operate (P3/BOT),Mega (7+),Performance-based (availability),Mixed,Fast-track,Best-value,60–100%,Medium,High,High,Very High
+Limpopo Bridge,Predictive: BOT,$10M–$50M,Finance + Operate (P3/BOT),Medium (2–3),Performance-based (availability),Easy,Accelerated,Best-value,60–100%,Low,Medium,Medium,High
+China Water Supply BOTs,Predictive: BOT,$50M–$100M,Finance + Operate (P3/BOT),Large (4–6),Performance-based (availability),Mixed,Normal,Best-value,60–100%,Medium,Medium,High,High
